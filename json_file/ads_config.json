@@ -1,0 +1,63 @@
+{
+  "ADS": {
+    "STATUS": true,
+    "USE_ADMOB": true,
+    "USE_ADMOB2": true,
+    "APP_OPEN_ENABLED": true,
+    "SHOW_AD_DIALOG": false,
+    "AD_DIALOG_TIMER_SEC": 2
+  },
+
+  "ADMOB": {
+    "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+    "BANNER": "ca-app-pub-3940256099942544/6300978111",
+    "INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+    "NATIVE": "ca-app-pub-3940256099942544/2247696110",
+    "REWARDED": "ca-app-pub-3940256099942544/5224354917",
+    "APP_OPEN": "ca-app-pub-3940256099942544/3419835294"
+  },
+
+  "ADMOB2": {
+    "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+    "BANNER": "ca-app-pub-3940256099942544/6300978111",
+    "INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+    "NATIVE": "ca-app-pub-3940256099942544/2247696110",
+    "REWARDED": "ca-app-pub-3940256099942544/5224354917",
+    "APP_OPEN": "ca-app-pub-3940256099942544/3419835294"
+  },
+
+  "STRATEGY": {
+    "INTERSTITIAL_CLICKS_BEFORE_SHOW": 2,
+    "BANNER_SWIPE_COUNT": 0,
+    "NATIVE_SWIPE_COUNT": 0
+  },
+
+  "APP_BEHAVIOR": {
+    "REDIRECT_ENABLED": false,
+    "REDIRECT_PACKAGE": "",
+    "UPDATE_REQUIRED": false,
+    "MINIMUM_VERSION_CODE": 1
+  },
+
+  "PLATFORM_LOGIC": {
+    "howShowInterstitial": "0",
+    "adPlatformSequenceInterstitial": "Admob,Admob2",
+    "alternateAdShowInterstitial": "Admob2,Admob",
+
+    "howShowBanner": "1",
+    "adPlatformSequenceBanner": "Admob,Admob2",
+    "alternateAdShowBanner": "Admob2,Admob",
+
+    "howShowNative": "1",
+    "adPlatformSequenceNative": "Admob,Admob2",
+    "alternateAdShowNative": "Admob2,Admob",
+
+    "howShowRewarded": "0",
+    "adPlatformSequenceRewarded": "Admob,Admob2",
+    "alternateAdShowRewarded": "Admob2,Admob"
+  },
+
+  "TEST_DEVICES": [
+    "F57079CDF4A162912EB3000CE4170527"
+  ]
+}
