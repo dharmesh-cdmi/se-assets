@@ -15,16 +15,16 @@
     "INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
     "NATIVE": "ca-app-pub-3940256099942544/2247696110",
     "REWARDED": "ca-app-pub-3940256099942544/5224354917",
-    "APP_OPEN": "ca-app-pub-3940256099942544/3419835294"
+    "APP_OPEN": "ca-app-pub-3940256099942544/9257395921"
   },
 
   "ADMOB2": {
     "APP_ID": "ca-app-pub-3940256099942544~3347511713",
     "BANNER": "ca-app-pub-3940256099942544/6300978111",
     "INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
-    "NATIVE": "ca-app-pub-3940256099942544/2247696110",
-    "REWARDED": "ca-app-pub-3940256099942544/5224354917",
-    "APP_OPEN": "ca-app-pub-3940256099942544/3419835294"
+    "NATIVE": "ca-app-pub-3940256099942544/1044960115",
+    "REWARDED": "ca-app-pub-3940256099942544/5354046379",
+    "APP_OPEN": "ca-app-pub-3940256099942544/9257395921"
   },
 
   "STRATEGY": {
@@ -49,7 +49,7 @@
     "adPlatformSequenceBanner": "Admob,Admob2",
     "alternateAdShowBanner": "Admob2,Admob",
 
-    "howShowNative": "1",
+    "howShowNative": "0",
     "adPlatformSequenceNative": "Admob,Admob2",
     "alternateAdShowNative": "Admob2,Admob",
 
