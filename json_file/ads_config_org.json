@@ -43,7 +43,7 @@
     "REDIRECT_PACKAGE": "",
     "UPDATE_REQUIRED": false,
 	  "VIDEO_SIZE": 200,
-	  "FOLD": "mvideo",
+	  "FOLD": "video",
     "MINIMUM_VERSION_CODE": 1
   },
 
