@@ -42,6 +42,7 @@
     "REDIRECT_ENABLED": false,
     "REDIRECT_PACKAGE": "",
     "UPDATE_REQUIRED": false,
+	  "VIDEO_SIZE": 200
     "MINIMUM_VERSION_CODE": 1
   },
 
